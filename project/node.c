@@ -1,5 +1,5 @@
-/*  Alex Barke 860883440    */
-/*  Sam Lee 860957929       */
+/*  Alex Barke 			    */
+/*  Sam Lee 		        */
 /*                          */
 /*  CS 164 Project          */
 /*  node.c                  */
